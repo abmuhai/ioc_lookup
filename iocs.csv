@@ -1,5 +1,8 @@
-ioc,malicious status,vendor flagged
-171.25.193.25,malicious,11
-google.com,,0
-http://m3.wtf/,malicious,6
-8a9ac49e364d45164672785693c176ac,malicious,23
+ioc,malicious_status,vendor_flagged,type_description,md5,sha1,sha256,times_submitted,popular_threat_classification,first_submission_date
+171.25.193.25,malicious,9,,,,,,,
+google.com,non-malicious,0,,,,,,,
+http://m3.wtf/,malicious,6,,,,,,,
+8a9ac49e364d45164672785693c176ac,malicious,23,Win32 EXE,8a9ac49e364d45164672785693c176ac,8a8d02615df1c731e4f20855dadca56db75cd065,5805701f1f68be962bf603950dda3348cbdb606b75db25399df53757f2ef6489,2,trojan.r4fc3cm,1309213785
+sjunmel.org,malicious,15,,,,,,,
+catknock.com,malicious,12,,,,,,,
+0074d350dc9e53aca11621774d54c8bed795a29585e815149e643c0e66e9395e,malicious,56,Win32 EXE,b26514fb04aa92a59efe57a7913f42be,8798946afea73da5dec1267468407fb177442fef,0074d350dc9e53aca11621774d54c8bed795a29585e815149e643c0e66e9395e,3,trojan.codecpack/graftor,1326437370
