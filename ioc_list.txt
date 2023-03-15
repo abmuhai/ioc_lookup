@@ -2,6 +2,10 @@
 google.com,
 http://m3.wtf/,
 8a9ac49e364d45164672785693c176ac
-sjunmel.org
+sjunmel[.]org
 catknock.com
 0074d350dc9e53aca11621774d54c8bed795a29585e815149e643c0e66e9395e
+95d59ca12bc4455b3247ffe17f685fcd
+5.255.99.205
+https://www.youtube.com/
+8.8.8.8

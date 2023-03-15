@@ -1,0 +1,12 @@
+ioc,malicious_status,vendor_flagged,categories,tld,IP_address,last_dns_records_date,last_analysis_date,last_https_certificate_date,last_modification_date
+google.com,non-malicious,0,search engines and portals,com,"142.251.107.113
+142.251.107.100
+142.251.107.101
+142.251.107.138
+142.251.107.139
+142.251.107.102
+",2023-03-15,2023-03-15,2023-03-15,2023-03-15
+sjunmel.org,malicious,15,newly registered websites,org,"45.88.201.179
+",2023-03-15,2023-03-15,2023-03-15,2023-03-15
+catknock.com,malicious,17,blogs and personal sites,com,"185.61.154.17
+",2023-03-15,2023-03-15,2023-03-15,2023-03-15

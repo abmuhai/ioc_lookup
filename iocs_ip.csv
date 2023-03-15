@@ -1,0 +1,4 @@
+ioc,malicious_status,vendor_flagged,regional_internet_registry,network,country,continent,asn,as_owner,last_modification_date
+171.25.193.25,malicious,11,RIPE NCC,171.25.193.0/24,SE,EU,198093,Foreningen for digitala fri- och rattigheter,2023-03-15
+5.255.99.205,malicious,4,RIPE NCC,5.255.96.0/19,NL,EU,60404,The Infrastructure Group B.V.,2023-03-14
+8.8.8.8,malicious,2,ARIN,8.8.8.0/24,US,NA,15169,GOOGLE,2023-03-15
